@@ -1,0 +1,11 @@
+version: 1.1.0
+files:
+  - url: ParkShift-1.1.0.dmg
+    sha512: ZxvGiX+n4JLxL7rKhPrQojoUy9MhNy4IiBVcvHNjvFxHm9ybcMyHoIteZogprENlq4bAzJybx1zGZsujvQ1ZPw==
+    size: 121642802
+  - url: ParkShift-1.1.0-arm64.dmg
+    sha512: 70rSZGlP9pr7sMxhNw+zly/GfjzPYJWc8jldE8ATMC7PCNKw5ePhWX650qSRZowPIz3PyzZ0acrNqQ+EjxxNEw==
+    size: 119713374
+path: ParkShift-1.1.0.dmg
+sha512: ZxvGiX+n4JLxL7rKhPrQojoUy9MhNy4IiBVcvHNjvFxHm9ybcMyHoIteZogprENlq4bAzJybx1zGZsujvQ1ZPw==
+releaseDate: '2026-06-28T19:35:15.798Z'
